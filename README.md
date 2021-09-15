@@ -19,4 +19,4 @@
 * `start.bat` adlı dosyayı çalıştırın artık botunuz aktif güle güle kullanın. 🎉
 * Botta bulduğunuz hataları Klanter#1337 kullanıcı adlı discord hesabıma bildirmeyi unutmayın.
 
-![Örnek](xxxx)
+![Örnek](https://prnt.sc/1sbpjxn)
