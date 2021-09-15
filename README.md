@@ -20,3 +20,5 @@
 * Botta bulduğunuz hataları Klanter#1337 kullanıcı adlı discord hesabıma bildirmeyi unutmayın.
 
 ![Örnek](https://i.hizliresim.com/7yvl8mk.png)
+![Örnek](https://i.hizliresim.com/7o04xky.png)
+
