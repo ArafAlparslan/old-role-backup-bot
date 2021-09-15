@@ -10,6 +10,7 @@ const client = new Client({ws: {
 
 client.deletedroles = new Array();
 client.ohalmembers = new Array();
+client.whitelimit = new Map();
 client.bots = new Array();
 
 for (let i = 0; i < config.SecondTokens.length; i++) {
