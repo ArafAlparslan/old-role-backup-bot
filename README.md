@@ -1,3 +1,5 @@
+# ESKİ KULLANDIĞIM ROL DAĞITMA SİSTEMİNİ PAYLAŞIYORUM UZUN ZAMAN İŞİMİ GÖRDÜ GELİŞTİREREK SİZDE İŞİNİZİ GÖREBİLECEĞİNİZİ DÜŞÜNÜYORUM
+
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) Cihazınıda Node kurulu olduğuna emin olun.
 * Yeşil Code butonuna basın ve Downland zip seçeneğine tıklayın indirme işlemini bekleyin.
