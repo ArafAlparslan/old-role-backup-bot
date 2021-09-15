@@ -23,7 +23,11 @@ client.on('ready', async () => {
   client.user.setPresence({activity: {name: config.Custom_Status}, type: 'PLAYING', status: 'dnd'})
       .then(console.log('PASS - '+ client.user.tag +' Online.'))
       .catch(() => console.log('PASS - Belirsiz bir hata ile karşılaşıldı.'));
-  await SaveBackup(); setInterval(async () => SaveBackup(), 1000 * 60 * 60 * 1);
+  await SaveBackup(); 
+  setInterval(async () => {
+  client.whitelimit.clear();
+  await SaveBackup();
+  }, 1000 * 60 * 60 * 1);
   await SetBackup(); setInterval(async () => SetBackup(), 1000 * 60 * 15);
 });
 
