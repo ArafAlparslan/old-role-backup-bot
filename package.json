@@ -1,0 +1,12 @@
+{
+  "name": "klanter-role-backup-bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Klanter#1337 on Discord",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "yaml": "^1.10.2"
+  }
+}
