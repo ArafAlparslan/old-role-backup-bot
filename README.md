@@ -1,4 +1,5 @@
 ESKİ KULLANDIĞIM ROL DAĞITMA SİSTEMİNİ PAYLAŞIYORUM UZUN ZAMAN İŞİMİ GÖRDÜ GELİŞTİREREK SİZDE İŞİNİZİ GÖREBİLECEĞİNİZİ DÜŞÜNÜYORUM
+HATALAR OLABİLİR TEST EDECEK VAKTİM YOK DİSCORDDAN YAZIN HATALARI
 
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) Cihazınıda Node kurulu olduğuna emin olun.
